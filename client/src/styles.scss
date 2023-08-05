@@ -333,9 +333,9 @@ $dark-purple-secondary: #8b5fbf;
 .single__page {
     display: flex;
     gap: 1rem;
+    padding: 1rem;
     .single__page__content {
         flex: 2;
-
         img {
             width: 100%;
             aspect-ratio: 16/7;
@@ -599,6 +599,14 @@ $dark-purple-secondary: #8b5fbf;
         }
         .menu {
             flex-direction: column-reverse;
+        }
+    }
+    .single__page{
+        padding: 1rem;
+        flex-direction: column;
+
+        .single__page__content{
+            flex: 1;
         }
     }
 }

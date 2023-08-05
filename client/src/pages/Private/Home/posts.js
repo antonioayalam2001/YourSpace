@@ -5,6 +5,7 @@ export const POSTS = [
         desc: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. A possimus excepturi aliquid nihil cumque ipsam facere aperiam at! Ea dolorem ratione sit debitis deserunt repellendus numquam ab vel perspiciatis corporis!",
         category: "videogames",
         img: "https://images.nintendolife.com/a7e1305c63700/best-nintendo-switch-games-of-2017.large.jpg",
+        username: "Demo"
     },
     {
         id: 2,
